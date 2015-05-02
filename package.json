@@ -1,0 +1,18 @@
+{
+  "name": "renderer-text",
+  "version": "0.1.0",
+  "description": "Plain text rendering support for Last Mate",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "http://jonruttan.github.io/renderer-text",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonruttan/renderer-text.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonruttan/renderer-text/issues"
+  }
+}
